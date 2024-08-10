@@ -31,7 +31,7 @@ This is a simple Inventory Management System built using Node.js and MongoDB. Th
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Shaukatmulla/InternshipProject2.git
-   cd inventory
+   git clone https://github.com/Shaukatmulla/InternshipProject-2.git
+   cd InternshipProject-2
    npm install
    node app.js
